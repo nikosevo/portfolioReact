@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <h1>portfolio...</h1>
+    <h1>portfolio... with react</h1>
   )
   
 }
