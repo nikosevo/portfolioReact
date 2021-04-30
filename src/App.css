@@ -9,6 +9,7 @@
 
 body{
   font-family: "Roboto Condensed" sans-serif;
+  background-color: var(--primary-dark);
 }
 /*****************************************NAVBAR*********************************/
 
@@ -36,5 +37,10 @@ nav ul li{
 .navbar-nav > li > a:hover{
   border-top: 3px solid var(--primary-orange) !important;
 
+}
+/*****************************************CONTACT FORM*********************************/
+
+.form{
+  background-color: var(--primary-dark);
 }
 

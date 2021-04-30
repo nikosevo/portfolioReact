@@ -3,7 +3,6 @@ import React from 'react'
 const Navbar = () => {
     return (
         <div>
-
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container">
 
@@ -30,8 +29,6 @@ const Navbar = () => {
                     </div>
                 </div>
             </nav>
-
-            {/*contact form starts here*/}
         </div>
 
     )
